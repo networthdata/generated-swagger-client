@@ -32,6 +32,7 @@ REQUIRES = [
 
 setup(
     name=NAME,
+    download_url="https://github.com/networthdata/generated-swagger-client/archive/v1.0.tar.gz",
     version=VERSION,
     description="Speech Services API v2.0",
     author_email="",
